@@ -12,7 +12,6 @@ public class InitialSettings extends PSettings {
     }
 
 
-
     @Override
     public void setup() {
         pantallaInicial = new Inicio();
