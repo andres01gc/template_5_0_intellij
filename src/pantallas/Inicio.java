@@ -26,4 +26,6 @@ public class Inicio extends Pantalla {
     public void finalizar() {
 
     }
+
+    
 }
